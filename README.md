@@ -50,6 +50,11 @@ I designed this background in Figma which looked somewhat like this after loadin
 * Zygarde
 * Arceus
 
+## Final Dashboard Image:
+
+![final dashboard image](https://user-images.githubusercontent.com/72240938/180847176-38f6f15c-cfe4-4c35-81f1-ba51724b4b7f.jpg)
+
+
 ## [Dashboard](https://app.powerbi.com/links/leHChI1JPt?ctid=41ef9d53-cb31-4b40-a55d-0893334a4059&pbi_source=linkShare&bookmarkGuid=55d1e99b-dd83-468f-946a-ca8f2bf73549)
 
 
